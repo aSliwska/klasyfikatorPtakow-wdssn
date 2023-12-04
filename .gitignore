@@ -1,1 +1,4 @@
-dane/wypakowane dane/archive.zip
+dane/archive.zip
+dane/test/
+dane/train/
+dane/valid/
