@@ -2,3 +2,4 @@ dane/archive.zip
 dane/test/
 dane/train/
 dane/valid/
+saved_models/model_10_ver1.pt
