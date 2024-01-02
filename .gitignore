@@ -1,4 +1,8 @@
-dane/archive.zip
-dane/test/
-dane/train/
-dane/valid/
+dane/*
+!dane/birds.csv
+!dane/id_label.txt
+!dane/efficientnet_lite0.pth
+
+saved_models/*
+!saved_models/model_525_ver1.onnx
+!saved_models/model_525_ver1.pt
