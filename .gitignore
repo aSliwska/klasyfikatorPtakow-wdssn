@@ -1,11 +1,11 @@
-dane/*
-!dane/birds.csv
-!dane/id_label.txt
-!dane/efficientnet_lite0.pth
+cnn/dane/*
+!cnn/dane/birds.csv
+!cnn/dane/id_label.txt
+!cnn/dane/efficientnet_lite0.pth
 
-saved_models/*
-!saved_models/model_525_ver1.onnx
-!saved_models/model_525_ver1.pt
-!saved_models/model_525_ver3.pt
-!saved_models/model_525_ver3.onnx
-!saved_models/model_525_ver3_lite.ptl
+cnn/saved_models/*
+!cnn/saved_models/model_525_ver1.onnx
+!cnn/saved_models/model_525_ver1.pt
+!cnn/saved_models/model_525_ver3.pt
+!cnn/saved_models/model_525_ver3.onnx
+!cnn/saved_models/model_525_ver3_lite.ptl
