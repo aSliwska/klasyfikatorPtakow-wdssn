@@ -1,4 +1,4 @@
-# klasyfikatorPtakow-wdssn 
+# klasyfikatorPtakow-wdssn // Bird Classifier
 ## PL
 Sieć neuronowa rozpoznająca gatunek ptaka na zdjęciu + aplikacja androidowa implementująca model.
 
