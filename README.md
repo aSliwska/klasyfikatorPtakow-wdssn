@@ -10,6 +10,6 @@ Przytnij zdjęcie ptaka tak, żeby zajmował większość powierzchni obrazu, al
 
 # Uruchamianie uczenia sieci (Jupyter Notebook):
 1. Pobierz dataset: [BIRDS 525 SPECIES- IMAGE CLASSIFICATION](https://www.kaggle.com/datasets/gpiosenka/100-bird-species)
-3. Wrzuć archive.zip do [cnn/dane/](cnn/dane/) i wypakuj foldery train/, valid/ i test/ (albo wszystko)
+3. Wrzuć archive.zip do [cnn/dane/](cnn/dane/) i wypakuj
 4. Uruchom [cnn/src/prepare_data.ipynb](cnn/src/prepare_data.ipynb)
 5. Zmień wersję sieci (zmienna na początku pliku z kodem) jeżeli chcesz zapisać output jako nowe pliki i uruchom [cnn/src/net_ver1.ipynb](cnn/src/net_ver1.ipynb)
