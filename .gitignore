@@ -6,3 +6,6 @@ dane/*
 saved_models/*
 !saved_models/model_525_ver1.onnx
 !saved_models/model_525_ver1.pt
+!saved_models/model_525_ver3.pt
+!saved_models/model_525_ver3.onnx
+!saved_models/model_525_ver3_lite.ptl
