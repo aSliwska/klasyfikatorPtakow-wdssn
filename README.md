@@ -1,9 +1,13 @@
 # klasyfikatorPtakow-wdssn // Bird Classifier
+<p align="center">
+  <img src="https://github.com/aSliwska/klasyfikatorPtakow-wdssn/assets/136252656/fbbaf08a-7c0d-42f8-9e4e-7e49854137ae" height="550">
+</p>
+
 ## PL
 Sieć neuronowa rozpoznająca gatunek ptaka na zdjęciu + aplikacja androidowa implementująca model.
 
-### Uwagi:
-Przytnij zdjęcie ptaka tak, żeby zajmował większość powierzchni obrazu, ale był widoczny w całości.
+> [!NOTE] 
+> Przytnij zdjęcie ptaka tak, żeby zajmował większość powierzchni obrazu, ale był widoczny w całości.
 
 ### Uruchamianie aplikacji:
 1. Importuj [application/KlasyfikatorPtakowwdssn](application/KlasyfikatorPtakowwdssn) jako nowy projekt w Android Studio
@@ -15,11 +19,12 @@ Przytnij zdjęcie ptaka tak, żeby zajmował większość powierzchni obrazu, al
 4. Uruchom [cnn/src/prepare_data.ipynb](cnn/src/prepare_data.ipynb)
 5. Zmień wersję sieci (zmienna na początku pliku z kodem) jeżeli chcesz zapisać output jako nowe pliki i uruchom [cnn/src/net_ver3.ipynb](cnn/src/net_ver3.ipynb)
 
+
 ## ENG
 Convolutional neural network that recognizes bird species from photos + android app that implements the model.
 
-### Notes:
-Crop the photo before use - the bird should take up most of the image and still have its entire body visible.
+> [!NOTE] 
+> Crop the photo before use - the bird should take up most of the image and still have its entire body visible.
 
 ### Run the app:
 1. Import [application/KlasyfikatorPtakowwdssn](application/KlasyfikatorPtakowwdssn) as a new project in Android Studio
