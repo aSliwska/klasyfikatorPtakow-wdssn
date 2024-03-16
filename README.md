@@ -1,4 +1,4 @@
-# klasyfikatorPtakow-wdssn // Bird Classifier
+# Klasyfikator Ptaków // Bird Classifier
 <p align="center">
   <img src="https://github.com/aSliwska/klasyfikatorPtakow-wdssn/assets/136252656/fbbaf08a-7c0d-42f8-9e4e-7e49854137ae" height="550">
 </p>
